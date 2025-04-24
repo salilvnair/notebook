@@ -11,3 +11,9 @@ https://www.youtube.com/watch?v=2PduIgZDW9Y
 
 
 https://github.com/joaquin-alfaro/ai-api-gateway-parent.git
+
+
+https://github.com/ianyh/Amethyst
+
+
+https://github.com/gechr/WhichSpace?tab=readme-ov-file
