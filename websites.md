@@ -20,3 +20,9 @@ https://github.com/gechr/WhichSpace?tab=readme-ov-file
 
 
 https://pinetools.com/colorize-image
+
+
+https://github.com/virattt/ai-hedge-fund
+
+
+https://github.com/browser-use/workflow-use
